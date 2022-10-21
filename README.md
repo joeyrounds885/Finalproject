@@ -4,7 +4,7 @@
 I am creating this website so you can see my skills as an IT student and see who I am. 
   Navigate throughout my website using these links
   
-* [About Me](./aboutme.md)
+* [About Me](./about_me.md)
 * [Sample Code](./sample_code.md)
 * [Fall Classes](./classes_fall.md)
 * [Favorite Foods](./favorite_foods.md)
