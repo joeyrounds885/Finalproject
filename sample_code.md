@@ -1,4 +1,4 @@
-#Code Sample
+# Code Sample
 This is some of my skills that I have learned as an IT student. I am writing a common code called FizzBuzz.
 
 <!DOCTYPE html>
