@@ -1,4 +1,4 @@
-#Fall Classes
+# Fall Classes
 I am taking 16 credit hours in the semester of Fall 2022
 1. Intro to IT - _3 hours_
 2. Intro to Programming - _3 hours_
